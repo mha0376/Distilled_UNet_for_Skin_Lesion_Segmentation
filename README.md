@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/0d010893-b6b8-4334-b3fe-44f6f5c18a06)
+![image](https://github.com/user-attachments/assets/bd39c6f0-94ee-4c61-9759-e8bab2781bf1)
 
 
-# Skin Lesion Segmentation with Knowledge Distillation
+
+# Distilled UNet for Skin Lesion Segmentation
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
