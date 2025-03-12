@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd39c6f0-94ee-4c61-9759-e8bab2781bf1)
-
-
+![banner](https://github.com/user-attachments/assets/077119ea-7d46-4cd1-adb9-0bb35cb27bbc)
 
 # Distilled UNet for Skin Lesion Segmentation
 
