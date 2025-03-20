@@ -1,4 +1,4 @@
-![banner](https://github.com/user-attachments/assets/077119ea-7d46-4cd1-adb9-0bb35cb27bbc)
+![image (3)](https://github.com/user-attachments/assets/97f734a1-07e6-456d-9af6-7802d5acaee3)
 
 # Distilled UNet for Skin Lesion Segmentation
 
@@ -96,8 +96,8 @@ Validation is performed during training, and the validation Dice score and loss 
 
 After training, the notebook automatically visualizes segmentation predictions on a few validation examples. Inline plots are generated, showing the input image, ground truth mask, and the student model's predicted segmentation mask. This provides a quick visual assessment of the model's performance.
 
-![image](https://github.com/user-attachments/assets/5e232dfd-733b-47f5-a880-e8ed7a422269)
-![image](https://github.com/user-attachments/assets/b80f563b-9bff-44de-8cbd-8faf8e4ccf09)
+![image (4)](https://github.com/user-attachments/assets/a6ab5c6a-1cdc-40b6-96a6-aa02a913aa21)
+![image (5)](https://github.com/user-attachments/assets/5b7dbe85-c696-4ab5-a4cf-e6b964c78d8e)
 
 ### Monitoring with TensorBoard
 
